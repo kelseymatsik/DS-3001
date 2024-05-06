@@ -55,3 +55,6 @@
 [submodule "bias_and_variance"]
 	path = bias_and_variance
 	url = git@github.com:kelseymatsik/bias_and_variance.git
+[submodule "project_voting"]
+	path = project_voting
+	url = git@github.com:kelseymatsik/project_voting.git
