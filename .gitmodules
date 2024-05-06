@@ -25,3 +25,6 @@
 [submodule "trees"]
 	path = trees
 	url = git@github.com:kelseymatsik/trees.git
+[submodule "gss_project"]
+	path = gss_project
+	url = git@github.com:kelseymatsik/gss_project.git
