@@ -1,3 +1,6 @@
 [submodule "probability"]
 	path = probability
 	url = https://github.com/kelseymatsik/probability.git
+[submodule "cv_and_lasso"]
+	path = cv_and_lasso
+	url = git@github.com:kelseymatsik/cv_and_lasso.git
