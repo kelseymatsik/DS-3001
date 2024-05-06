@@ -28,3 +28,6 @@
 [submodule "gss_project"]
 	path = gss_project
 	url = git@github.com:kelseymatsik/gss_project.git
+[submodule "github_intro"]
+	path = github_intro
+	url = git@github.com:kelseymatsik/github_intro.git
