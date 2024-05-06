@@ -16,3 +16,6 @@
 [submodule "ensembles"]
 	path = ensembles
 	url = git@github.com:kelseymatsik/ensembles.git
+[submodule "linearRegression"]
+	path = linearRegression
+	url = git@github.com:kelseymatsik/linearRegression.git
