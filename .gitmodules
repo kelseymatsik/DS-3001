@@ -10,3 +10,6 @@
 [submodule "project_chd"]
 	path = project_chd
 	url = git@github.com:kelseymatsik/project_chd.git
+[submodule "misc"]
+	path = misc
+	url = git@github.com:kelseymatsik/misc.git
