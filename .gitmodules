@@ -31,3 +31,27 @@
 [submodule "github_intro"]
 	path = github_intro
 	url = git@github.com:kelseymatsik/github_intro.git
+[submodule "kmc"]
+	path = kmc
+	url = git@github.com:kelseymatsik/kmc.git
+[submodule "knn"]
+	path = knn
+	url = git@github.com:kelseymatsik/knn.git
+[submodule "visualization"]
+	path = visualization
+	url = git@github.com:kelseymatsik/visualization.git
+[submodule "wrangling"]
+	path = wrangling
+	url = git@github.com:kelseymatsik/wrangling.git
+[submodule "programming"]
+	path = programming
+	url = git@github.com:kelseymatsik/programming.git
+[submodule "EDA"]
+	path = EDA
+	url = git@github.com:kelseymatsik/EDA.git
+[submodule "the_bootstrap"]
+	path = the_bootstrap
+	url = git@github.com:kelseymatsik/the_bootstrap.git
+[submodule "bias_and_variance"]
+	path = bias_and_variance
+	url = git@github.com:kelseymatsik/bias_and_variance.git
