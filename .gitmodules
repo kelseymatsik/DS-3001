@@ -13,3 +13,6 @@
 [submodule "misc"]
 	path = misc
 	url = git@github.com:kelseymatsik/misc.git
+[submodule "ensembles"]
+	path = ensembles
+	url = git@github.com:kelseymatsik/ensembles.git
