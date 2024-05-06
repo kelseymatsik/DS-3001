@@ -19,3 +19,6 @@
 [submodule "linearRegression"]
 	path = linearRegression
 	url = git@github.com:kelseymatsik/linearRegression.git
+[submodule "model_evaluation"]
+	path = model_evaluation
+	url = git@github.com:kelseymatsik/model_evaluation.git
