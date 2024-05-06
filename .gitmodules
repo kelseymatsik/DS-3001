@@ -7,3 +7,6 @@
 [submodule "aNN"]
 	path = aNN
 	url = git@github.com:kelseymatsik/aNN.git
+[submodule "project_chd"]
+	path = project_chd
+	url = git@github.com:kelseymatsik/project_chd.git
