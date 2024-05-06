@@ -4,3 +4,6 @@
 [submodule "cv_and_lasso"]
 	path = cv_and_lasso
 	url = git@github.com:kelseymatsik/cv_and_lasso.git
+[submodule "aNN"]
+	path = aNN
+	url = git@github.com:kelseymatsik/aNN.git
